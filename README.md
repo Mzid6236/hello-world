@@ -1,4 +1,4 @@
 # hello-world
 First repo
 
-hi
+hi people
